@@ -5,4 +5,3 @@ If you create GameObjects at run time using `Instantiate` here is how to prevent
 
 - Add Rect Transform component to your GameObject in Inspector.
 - Edit the GameObjectGenerator.cs file as you wish.
-
